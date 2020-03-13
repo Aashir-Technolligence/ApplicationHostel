@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Application Hostels</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="db_hostelAdmin">Hostel_Admin</string>
+
+    <string name="type_prompt">Choose hostel type</string>
+
+    <string-array name="type_arrays">
+        <item>Single seater</item>
+        <item>Double seater</item>
+        <item>Three seater</item>
+        <item>Four seater</item>
+        <item>Five seater</item>
+    </string-array>
+    <string-array name="yesno">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+</resources>

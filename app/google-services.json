@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "509888259281",
+    "firebase_url": "https://applicationhostel.firebaseio.com",
+    "project_id": "applicationhostel",
+    "storage_bucket": "applicationhostel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509888259281:android:819f6ec0b5261a32",
+        "android_client_info": {
+          "package_name": "com.coder.applicationhostel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509888259281-rm9rsajmelsqssfdb95n8v5a6dldpsl4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coder.applicationhostel",
+            "certificate_hash": "b8afe2017a550c623b85a8964af59898fa4824cd"
+          }
+        },
+        {
+          "client_id": "509888259281-84kn2ueuimqa8u648u8sd978mmjdd9hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq_PdjKopGufYqO8x5jBAhUxGKzv3ejY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509888259281-84kn2ueuimqa8u648u8sd978mmjdd9hq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
